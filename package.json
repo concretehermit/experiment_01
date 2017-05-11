@@ -2,5 +2,8 @@
   "name": "rain",
   "version": "1.0.0",
   "author": "Rory Powis <rory@hikkendry.com>",
-  "license": "Apache 2.0"
+  "license": "Apache 2.0",
+  "scripts": {
+    "start": "node server.js"
+  }
 }
